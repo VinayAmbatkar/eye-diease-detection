@@ -70,9 +70,9 @@ const AboutPage = () => {
       <section className="hero">
         <div className="container">
           <div className="hero-content">
-            <h1>About EyeCare AI</h1>
+            <h1>About Us</h1>
             <p className="hero-description">
-              We're revolutionizing eye healthcare by making advanced AI-powered disease detection 
+              We're revolutionizing eye healthcare by making advanced AI-powered disease detection
               accessible to everyone, everywhere.
             </p>
           </div>
@@ -86,12 +86,12 @@ const AboutPage = () => {
             <div className="mission-text">
               <h2>Our Mission</h2>
               <p>
-                To democratize access to quality eye healthcare by leveraging artificial intelligence 
-                to provide accurate, instant, and affordable eye disease detection. We believe that 
+                To democratize access to quality eye healthcare by leveraging artificial intelligence
+                to provide accurate, instant, and affordable eye disease detection. We believe that
                 everyone deserves access to world-class medical care, regardless of their location or economic status.
               </p>
               <p>
-                Through our innovative platform, we're bridging the gap between patients and healthcare 
+                Through our innovative platform, we're bridging the gap between patients and healthcare
                 providers, ensuring that eye diseases are detected early and treated effectively.
               </p>
             </div>
@@ -108,7 +108,7 @@ const AboutPage = () => {
       <section className="features">
         <div className="container">
           <div className="section-header">
-            <h2>Why Choose EyeCare AI?</h2>
+            <h2>Why Choose Our System?</h2>
             <p>Cutting-edge technology meets compassionate care</p>
           </div>
           <div className="features-grid">
@@ -147,7 +147,7 @@ const AboutPage = () => {
         <div className="container">
           <div className="section-header">
             <h2>Our Team</h2>
-            <p>Meet the experts behind EyeCare AI</p>
+            <p>Meet the experts behind our platform</p>
           </div>
           <div className="team-grid">
             {team.map((member, index) => (
@@ -171,8 +171,8 @@ const AboutPage = () => {
             <div className="tech-text">
               <h2>Advanced Technology</h2>
               <p>
-                Our AI system is built on state-of-the-art machine learning models trained on 
-                thousands of eye images from diverse populations. We use advanced computer vision 
+                Our AI system is built on state-of-the-art machine learning models trained on
+                thousands of eye images from diverse populations. We use advanced computer vision
                 techniques to analyze eye images with unprecedented accuracy.
               </p>
               <div className="tech-features">
@@ -208,19 +208,19 @@ const AboutPage = () => {
         <div className="container">
           <div className="contact-content">
             <h2>Get in Touch</h2>
-            <p>Have questions about EyeCare AI? We'd love to hear from you.</p>
+            <p>Have questions? We'd love to hear from you.</p>
             <div className="contact-info">
               <div className="contact-item">
                 <h4>Email</h4>
-                <p>support@eyecareai.com</p>
+                <p>rmpatil91@gmail.com</p>
               </div>
               <div className="contact-item">
                 <h4>Phone</h4>
-                <p>+91 98765 43210</p>
+                <p>+91 9503141798</p>
               </div>
               <div className="contact-item">
-                <h4>Address</h4>
-                <p>123 Medical District<br />New Delhi, India 110001</p>
+                <h4>Contact Person</h4>
+                <p>Rashmi Patil</p>
               </div>
             </div>
           </div>
