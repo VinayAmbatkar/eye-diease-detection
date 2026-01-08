@@ -16,7 +16,7 @@ const HomePage = () => {
         <div className="hero-container">
           <div className="hero-content">
             <h1 className="hero-title">
-              Advanced <span className="gradient-text">Eye Disease Detection</span> with AI
+              AI-Powered Diagnostic System for <span className="gradient-text">Ophthalmic Disease Detection</span>
             </h1>
             <p className="hero-description">
               Get instant, accurate eye disease analysis using cutting-edge artificial intelligence.
