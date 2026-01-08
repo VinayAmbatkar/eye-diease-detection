@@ -63,7 +63,7 @@ const HomePage = () => {
         <div className="container">
           <div className="cta-content">
             <h2>Ready to Get Started?</h2>
-            <p>Join thousands of users who trust EyeCare AI for their eye health</p>
+            <p>Join thousands of users who trust our AI-powered system for their eye health</p>
             <Link to="/analyze" className="btn-primary large">
               Start Your Analysis Now
               <ArrowRight className="btn-icon" />
