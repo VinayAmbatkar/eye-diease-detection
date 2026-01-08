@@ -10,10 +10,10 @@ const Footer = () => {
           <div className="footer-section">
             <div className="footer-brand">
               <Eye className="footer-logo" />
-              <span className="footer-brand-text">EyeCare AI</span>
+              <span className="footer-brand-text">AI-Powered Diagnostic System for Ophthalmic Disease Detection</span>
             </div>
             <p className="footer-description">
-              Advanced AI-powered eye disease detection for better healthcare outcomes. 
+              Advanced AI-powered eye disease detection for better healthcare outcomes.
               Making quality eye care accessible to everyone.
             </p>
             <div className="footer-social">
@@ -49,15 +49,15 @@ const Footer = () => {
             <div className="contact-info">
               <div className="contact-item">
                 <Mail className="contact-icon" />
-                <span>support@eyecareai.com</span>
+                <span>rmpatil91@gmail.com</span>
               </div>
               <div className="contact-item">
                 <Phone className="contact-icon" />
-                <span>+91 98765 43210</span>
+                <span>+91 9503141798</span>
               </div>
               <div className="contact-item">
                 <MapPin className="contact-icon" />
-                <span>123 Medical District, New Delhi, India</span>
+                <span>Rashmi Patil</span>
               </div>
             </div>
           </div>
@@ -65,7 +65,7 @@ const Footer = () => {
 
         <div className="footer-bottom">
           <div className="footer-bottom-content">
-            <p>&copy; 2025 EyeCare AI. All rights reserved.</p>
+            <p>&copy; 2025 AI-Powered Diagnostic System for Ophthalmic Disease Detection. All rights reserved.</p>
             <p className="footer-disclaimer">
               Made with <Heart className="heart-icon" /> for better healthcare
             </p>
